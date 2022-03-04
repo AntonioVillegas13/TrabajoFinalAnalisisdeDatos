@@ -3,7 +3,7 @@ En este apartado se muestra la recoleccion de datos de fuentes como tweeter y ka
 Base de datos de kaggle usada: https://www.kaggle.com/START-UMD/gtd
 
 
-#Tema SuperBowl ----------------------------------
+#Tema SuperBowl ------------------------------------------------------------------------------------------------------
 
 ->Consideraciones:
 
@@ -34,7 +34,7 @@ Una vez ejecutado el script los datos habran sido exportados a tu mongoDB.
 
 ![image](https://user-images.githubusercontent.com/74798975/156851328-dbec5d23-74a2-4d51-8847-16ee1efc8c69.png)
 
-#Tema Terrorismo ----------------------------------
+#Tema Terrorismo ------------------------------------------------------------------------------------------------------
 
 Primero usamos una base de datos que extraemos de kaggle https://www.kaggle.com/START-UMD/gtd
 
@@ -68,7 +68,7 @@ Ejecutamos el script normalmente y listo. Revisaremos nuestro mongoDB y comproba
 ![image](https://user-images.githubusercontent.com/74798975/156853702-cfb04bed-aad7-4a6f-88da-1a970b0450a9.png)
 
 
-#Importar datos de mongoDB a PowerBi ----------------------------------
+#Importar datos de mongoDB a PowerBi ------------------------------------------------------------------------------------------------------
 
 Una vez importado los distintos datos en las diferentes bases de datos como fueron de couchDB y MYSQL, ahora los datos de mongoDB los usaremos para realizar analisis con ayuda de PowerBI. (La conexion entre el PowerBi y MongoDB se encuentran en el readme principal)
 
