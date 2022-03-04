@@ -20,7 +20,7 @@ _Podemos observar que iniciamos importando nuestras librerías tanto de CouchDB 
 
 ![image](https://user-images.githubusercontent.com/75056800/156852737-14696bde-dc0b-4339-88ea-9b5d0656d286.png)
 
-_Dentro de estas líneas de código podemos ver que se encuentra una variable que va a guardar nuestra clases que recibe como parámetros las Keys de Twitter una vez listos mediante el método filter podemos enviarle nuestras coordenadas seleccionadas y la palabra clave. El script empezara a buscar la  _
+_Dentro de estas líneas de código podemos ver que se encuentra una variable que va a guardar nuestra clases que recibe como parámetros las Keys de Twitter, una vez listos mediante el método filter podemos enviarle nuestras coordenadas seleccionadas y la palabra clave. El script empezara a buscar la extracción de los datos._
 
 
 
