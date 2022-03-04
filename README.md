@@ -43,8 +43,7 @@ Instalación de [Python](https://www.python.org/) y [Project Jupyter](https://ju
 -          Concentrar los datos recolectados en MongoDB.
 -          Importar bases de datos que recibieron tratamiento a PowerBI.
 
-# Desarrollo
-
+# Temas
 ## Pulso Político en 20 ciudades principales de Ecuador
 ## Estado de COVID a nivel mundial
 ## Juegos en línea por países
