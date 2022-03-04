@@ -35,12 +35,14 @@ Una vez ejecutado el script los datos habran sido exportados a tu mongoDB.
 ![image](https://user-images.githubusercontent.com/74798975/156851328-dbec5d23-74a2-4d51-8847-16ee1efc8c69.png)
 
 #Tema Terrorismo ----------------------------------
+
 Primero usamos una base de datos que extraemos de kaggle https://www.kaggle.com/START-UMD/gtd
 
 ![image](https://user-images.githubusercontent.com/74798975/156852351-f158c1ea-c192-4db5-bcf7-9963fec5529f.png)
 
 Ahora lo importamos en nuestro MYSQL
 Para ello creamos un schema y en tablas importamos nuestro .csv haciendo click derecho en "Table Data Import Wizard"
+
 ![image](https://user-images.githubusercontent.com/74798975/156852444-640a2cb1-d7ba-4b6c-94a4-4d1e6754981e.png)
 
 Buscamos nuestra base de datos que descargamos de Kaggle y lo importamos dando en next:
@@ -95,6 +97,7 @@ Algunos ejemplos de graficas basadas en los datos que hemos usado para este ejem
 #Terrorismo
 
 ![image](https://user-images.githubusercontent.com/74798975/156854592-6764b4ca-72f8-42fd-8786-aa64560f157b.png)
+![image](https://user-images.githubusercontent.com/74798975/156854744-7673a24f-2521-4360-88cd-70566d69f140.png)
 
 
 
