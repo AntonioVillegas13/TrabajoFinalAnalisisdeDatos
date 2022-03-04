@@ -1,2 +1,2 @@
-# TrabajoFinalAnalisisdeDatos
-Trabajo final de la materia de análisis de datos  donde se hizo web scrapping y se implemento dataset para interpretar los datos mediante el analisis
+# Eventos o Noticias Mundiales
+En este apartado se muestra la recoleccion de datos de fuentes como tweeter y kaggle, para un analisis de eventos como el SuperBowl y el Terrorismo a nivel mundial. 
