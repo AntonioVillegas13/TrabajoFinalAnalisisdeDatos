@@ -1,10 +1,10 @@
 # Recopilacion de datos (Scraping):
-- Facebook     - OMS
+- Kaggle       - OMS
 - Twitter      - GitHub
 - Tiktok       - Twitter
 - Web          - Statista
 - Youtube      - DataSet
-- Kaggle       
+     
 
 ### Integrantes
 - Adrian Chicaiza
