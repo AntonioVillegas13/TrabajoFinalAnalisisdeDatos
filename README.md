@@ -17,10 +17,16 @@ Link: https://www.microsoft.com/en-us/download/details.aspx?id=48145
 
 Descargue e instale el controlador ODBC de MongoDB BI Connector .
 Link: https://github.com/mongodb/mongo-bi-connector-odbc-driver/releases/
-# Obetivos
-### - Analizar los diferentes métodos que podemos utilizar para recopilar datos.
-### - Crear métodos para guardar la información recopilada en diferentes bases de datos.
-### - Crear métodos que nos permitan la comunicación entre bases de datos.
+# Obetivo General
+- Entender los métodos que existen para la recolección      de datos de diferentes fuentes alojadas en el Internet que permitan mediante su análisis escalar en la pirámide de conocimiento  hasta su punto más alto para generar sabiduría basados en una arquitectura Data Lake.	
+
+# Obetivos Especificos
+-          Definir una estructura Data Lake adecuada para la recopilación de datos.
+-          Definir un tema de estudio que cumpla con los requerimientos del caso.
+-           Tratar los datos recolectados con el software adecuado en cada nivel.
+-          Alojar los datos recolectados utilizando gestores de bases de datos relacionales y no relacionales.
+-          Concentrar los datos recolectados en MongoDB.
+-          Importar bases de datos que recibieron tratamiento a PowerBI.
 
 # Desarrollo
 
