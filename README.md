@@ -14,7 +14,7 @@
 - Antonio Villegas
 
 ## Ruta planteada
-![Ruta](https://raw.githubusercontent.com/AntonioVillegas13/TrabajoFinalAnalisisdeDatos/master/README.md/image.png)
+![Ruta](https://raw.githubusercontent.com/AntonioVillegas13/TrabajoFinalAnalisisdeDatos/image.png)
 
 # Pasos previos
 ## Conexion entre MongoDB y Power Bi
