@@ -3,4 +3,5 @@ _Proyecto de fin de semestre en el cual se creará un DATA LAKE enfocado en la r
 
 ## Objetivo del apartado 🚀
 
-_Se recopilaran datos de la red social Twitter utilizando coordenadas y la palabra clave ‘aborto’, así mismo de TikTok utilizando la misma palabra clave y websacrping  especializado para esta red social y para finalizar  utilizaremos la página web Apify para realizar scraping a YouTube.._
+_Se recopilaran datos de la red social Twitter utilizando coordenadas y la palabra clave ‘aborto’, así mismo de TikTok con  [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper/tree/develop) utilizando la misma palabra clave y websacrping  especializado para esta red social y para finalizar  utilizaremos la página web [Apify](https://apify.com/) para realizar scraping a YouTube._
+
