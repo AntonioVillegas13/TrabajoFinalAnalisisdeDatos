@@ -75,6 +75,6 @@ Instalación de [Python](https://www.python.org/) y [Project Jupyter](https://ju
 ## Estado de COVID a nivel mundial
 ## Juegos en línea por países
 ## [El aborto](https://github.com/AntonioVillegas13/TrabajoFinalAnalisisdeDatos/tree/4.-Tema-definido-por-el-estudiante)
-## Eventos o noticias mundiales
+## [Eventos o noticias mundiales](https://github.com/AntonioVillegas13/TrabajoFinalAnalisisdeDatos/tree/5.-Eventos-o-Noticias-Mundiales)
 
 
