@@ -3,8 +3,10 @@ En este apartado se muestra la recoleccion de datos de fuentes como tweeter y ka
 Base de datos de kaggle usada: https://www.kaggle.com/START-UMD/gtd
 
 
---Tema SuperBowl
+#Tema SuperBowl
+
 ->Consideraciones:
+
 En esta seccion las claves son proporcionadas por twitter de manera que puedas realizar el twitter-scraper, debes conseguir estas claves antes de hacer la practica.
 
 ![image](https://user-images.githubusercontent.com/74798975/156850819-767b177a-f2f2-40c7-9d0a-a128e1bc3be3.png)
