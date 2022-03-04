@@ -1,6 +1,16 @@
 # Pulso político en 20 ciudades del Ecuador
-1.- En esta rama pueden disponer de los scripts utilizados para realizar una recopilación de datos en tiempo real de la app de twitter por medio de su API de desarrollo, 
+ En esta rama pueden disponer de los scripts utilizados para realizar una recopilación de datos en tiempo real de la app de twitter por medio de su API de desarrollo, 
 el analisis de los sentimientos de cada usuario, su almacenaje en una base de datos relacional(SQL SERVER) y su traslado a una base no relacional(MONGO DB)
+
+Como punto importante, deberemos importar las librerias respectivas, tales como Tweepy para obtener los tweets  y sentimental_analizys_sentiments para dar una valoracion de los sentimientos del usuario respecto al texto twiteado.
+
+![image](https://user-images.githubusercontent.com/74626067/156853409-e6783115-0393-4406-aa2d-a5ca4b331279.png)
+
+1.- Respecto al codigo, se debe obtener las api keys de la cuenta de developer de twitter, eb caso contrario, el proceso de filtracion de datos no funcionará
+
+![image](https://user-images.githubusercontent.com/74626067/156853543-29b5bce3-483c-4022-8166-6facbb83da31.png)
+
+Se obtiene una captura de la visualización de un twett realizado por un residente de Ecuador, enviando datos importantes para nuestro estudio
 
 ![image](https://user-images.githubusercontent.com/74626067/156849886-4c309ae1-31bc-49be-9a6c-7255a7709245.png)
 
