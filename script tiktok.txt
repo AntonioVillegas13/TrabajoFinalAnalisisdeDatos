@@ -1,0 +1,1 @@
+tiktok-scraper hashtag aborto -n 10000 -t all
