@@ -140,6 +140,13 @@ _Damos clic en tranformar datos y ahi es donde eliminaremos algunas columnas._
 
 _Una vez veamos que esta lista nuestra tabla realizaremos una visualizacion de la cual  podremos sacar información._
 
+![image](https://user-images.githubusercontent.com/75056800/156864900-047f465b-7eb5-4a81-a955-c32df00eef4d.png)
+
+
+![image](https://user-images.githubusercontent.com/75056800/156864967-5880433f-f581-4349-8db9-aa9018831a56.png)
+
+
+![image](https://user-images.githubusercontent.com/75056800/156864987-b9eca3bd-91c6-4192-bce8-e2da37a14e15.png)
 
 
 
