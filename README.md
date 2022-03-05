@@ -65,7 +65,7 @@ Instalación de [Python](https://www.python.org/) y [Project Jupyter](https://ju
 # Obetivos Especificos
 -          Definir una estructura Data Lake adecuada para la recopilación de datos.
 -          Definir un tema de estudio que cumpla con los requerimientos del caso.
--           Tratar los datos recolectados con el software adecuado en cada nivel.
+-          Tratar los datos recolectados con el software adecuado en cada nivel.
 -          Alojar los datos recolectados utilizando gestores de bases de datos relacionales y no relacionales.
 -          Concentrar los datos recolectados en MongoDB.
 -          Importar bases de datos que recibieron tratamiento a PowerBI.
