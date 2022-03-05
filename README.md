@@ -126,7 +126,24 @@ _El resultado de este proceso sera el siguiente_
 
 ![image](https://user-images.githubusercontent.com/75056800/156863917-a2d48075-b345-4ff9-8a20-67d4e38f1f32.png)
 
-_Con esto documentos listos podremos realizar nuestras visualización y extraer información, abrimos nuestro PowerBi y vamos a realizar importaciones de dos maneras una apuntando al archivo csv y otra con el conector a mongo db. _
+_Con esto documentos listos podremos realizar nuestras visualización y extraer información, abrimos nuestro PowerBi y vamos a realizar importaciones de dos maneras una apuntando al archivo csv y otra con el conector a mongodb._
+
+![image](https://user-images.githubusercontent.com/75056800/156864242-4712a9ae-0fd4-4d1f-a402-c9e44fa6ce21.png)
+
+_Elegimos nuestro dumento y lo cargamos para poder modificarlo en el caso de que aun sera necesario._
+
+![image](https://user-images.githubusercontent.com/75056800/156864274-3fab4584-b085-4a19-86b7-70f72ea522eb.png)
+
+_Damos clic en tranformar datos y ahi es donde eliminaremos algunas columnas._
+
+![image](https://user-images.githubusercontent.com/75056800/156864330-5ba01f11-07f2-4b5e-a498-b2933f207a9e.png)
+
+_Una vez veamos que esta lista nuestra tabla realizaremos una visualizacion de la cual  podremos sacar información._
+
+
+
+
+
 
 
 
