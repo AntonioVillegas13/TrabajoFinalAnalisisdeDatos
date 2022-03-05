@@ -6,6 +6,10 @@ Trabajo final de la materia de análisis de datos  donde se hizo web scrapping y
 
 primero realizaremos la busqueda en el buscador especifico con las palabras claves que mejor describan nuestra busqueda.
 
+Link del data set con formato JSON
+<https://epnecuador-my.sharepoint.com/:u:/g/personal/antonio_villegas_epn_edu_ec/EUb2qZGGiqhEvkD6DpWycyABUxy1r-jOIQiiKZYg4ekXUg?e=P0jOSS>
+
+
 ![image](https://user-images.githubusercontent.com/88470677/156864997-04753022-a13c-443d-a000-677647dc312b.png)
 
 dentro de este buscador podremos encontrar varios data  sets  que podremos descargar , alguno son de paga, pero si se llega a encontrar  data set gratis.
