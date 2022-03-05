@@ -24,9 +24,23 @@ _Dentro de estas líneas de código podemos ver que se encuentra una variable qu
 
 ![image](https://user-images.githubusercontent.com/75056800/156856402-bfc57dd1-7056-4980-a389-620f0872abbd.png)
 
-_Este proceso se va a ver reflejado en CouchDB despues de haberlo realizado con varias coordenadas_
+_Este proceso se va a ver reflejado en CouchDB despues de haberlo realizado con varias coordenadas._
 
 ![image](https://user-images.githubusercontent.com/75056800/156856502-771caa9d-6251-439d-91b9-7bf8bd7efca9.png)
+
+_Para continuar extraeremos datos de TikTok utilizando tiktok-scraper utilizando una línea de código que insertaremos en CDM o terminal del sistema operativo utilizado apuntando a la carpeta donde se va a guardar la información_
+
+![image](https://user-images.githubusercontent.com/75056800/156857035-5cb6c188-82f2-4a30-bf46-ea43b1d23ab8.png)
+
+_Este método de scraping nos permite a mas de conseguir la información en formato json csv también noes permite descargar los videos de los usuarios utilizando -d_
+
+![image](https://user-images.githubusercontent.com/75056800/156857262-9f9b864b-ae78-42d0-9488-6bd9fb39d711.png)
+
+_En este caso solamente descargamos los documentos y dejamos a un lado los videos para no cargar nuestro sistema_
+
+
+
+
 
 
 
