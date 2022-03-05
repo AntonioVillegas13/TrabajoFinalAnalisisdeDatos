@@ -91,11 +91,46 @@ _Como veremos en la siguiente imagen tenemos las mismas bases dedatos en CouchDB
 ![image](https://user-images.githubusercontent.com/75056800/156862607-9a094a2d-ec16-4031-92fd-16f392189b4d.png)
 
 
-_Para pasar lod datos desde MySQL y PhpMyadmin utilizaremos un script parecido pero en esta ocasión crearemos un dataframe con la ayuda de Pandas que será codificado y enviado a MongoDB_
+_Para pasar lod datos desde MySQL y PhpMyadmin utilizaremos un script parecido pero en esta ocasión crearemos un dataframe con la ayuda de Pandas que será codificado y enviado a MongoDB._
 
 ![image](https://user-images.githubusercontent.com/75056800/156862740-a4334c65-ac7b-45bc-91b9-5b04c7e596b2.png)
 
-_En la primera parte de nuestro script creamos las conexiones tanto para SGBD SQL 
+_En la primera parte de nuestro script creamos las conexiones tanto para SGBD SQL y par MongoDB es importante tener instalados los drivers pymongo que nos permite crear un cliente para la conexión este cliente le entregamos nuestro usuario, contraseña, servidor donde se ubica y la base de datos a la que apuntamos, si la conexión se realiza con éxito nos creara un cursos que nos permitirá ejecutar sentencias SQL._
+
+![image](https://user-images.githubusercontent.com/75056800/156863154-a98604b6-59df-4082-8fc0-ee234d83b769.png)
+
+
+_Creamos un dataframe que guardara toda la información que nos extraiga la consulta SQL en MongoDb se creara la base de datos de llegada con su colección, creamos una función que nos permitirá codificar y que este dentro del formato aceptado por MongoDB, luego llamamos a la función y le enviamos como parámetro el dataframe producto de la consulta SQL, este método se puede utilizar tambien para PhpMyadmin_
+
+![image](https://user-images.githubusercontent.com/75056800/156863207-af40a73c-5d9f-4566-998a-707bba9e290f.png)
+
+_Y asi podemos observar que el proceso se a realizado con exito_
+
+![image](https://user-images.githubusercontent.com/75056800/156863540-48fe9a2a-78c5-4a40-bf08-279041a100fd.png)
+
+_Como paso final en la parde de los SGBD los datos que estan concentrados en MongoDB los trataremos con un ultimo script que con la información extraida de Twitter la separarar en dos dataframe como usuarios y tweets._
+
+![image](https://user-images.githubusercontent.com/75056800/156863717-1565ca98-8838-401f-99fa-6d618b675a95.png)
+
+_Creamos nuestra conexión a MongoDB para extraer los datos y mediante la creación de una lista y un diccionario iniciaremos con la extracción de datos._
+
+![image](https://user-images.githubusercontent.com/75056800/156863764-0eb99286-ce51-41a9-801f-7353b48fe6c8.png)
+
+
+_Si el proceso es exitoso nos entregara 2 dataframes que ahora podemos convertirlos en documentos sea json o csv para su importación en PowerBI._
+
+
+![image](https://user-images.githubusercontent.com/75056800/156863841-5f48dbdb-5c8c-449d-a533-9c99620f92c2.png)
+
+_El resultado de este proceso sera el siguiente_
+
+![image](https://user-images.githubusercontent.com/75056800/156863917-a2d48075-b345-4ff9-8a20-67d4e38f1f32.png)
+
+_Con esto documentos listos podremos realizar nuestras visualización y extraer información, abrimos nuestro PowerBi y vamos a realizar importaciones de dos maneras una apuntando al archivo csv y otra con el conector a mongo db. _
+
+
+
+
 
 
 
